@@ -15,3 +15,13 @@ Als der Frost ins Kind geflogen
 Hat es die Spieluhr aufgezogen
 Eine Melodie im Wind
 Und aus der Erde singt das Kind
+
+#feature 2nd commit
+Hoppe hoppe Reiter
+Und kein Engel steigt herab
+Mein Herz schlägt nicht mehr weiter
+Nur der Regen weint am Grab
+Hoppe hoppe Reiter
+Eine Melodie im Wind
+Mein Herz schlägt nicht mehr weiter
+Und aus der Erde singt das Kind
