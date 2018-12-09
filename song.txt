@@ -9,3 +9,9 @@ Der erste Schnee das Grab bedeckt
 Hat ganz sanft das Kind geweckt
 In einer kalten Winternacht
 Ist das kleine Herz erwacht
+
+# feature 1 commit
+Als der Frost ins Kind geflogen
+Hat es die Spieluhr aufgezogen
+Eine Melodie im Wind
+Und aus der Erde singt das Kind
